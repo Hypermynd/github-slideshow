@@ -2,10 +2,10 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Welcome to our 2nd slide!"
 	
 ---
 	
-Your text
+Your feedback is welcome!
 
 Use the left arrow to go back
